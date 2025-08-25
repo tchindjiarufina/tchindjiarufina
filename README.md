@@ -1,46 +1,52 @@
-
-
- <h1 align="center">✨ Olá, eu sou a Tchindjia Rufina ✨</h1>
+<h1 align="center">🌸✨ Oi, eu sou a Rufina ✨🌸</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300px" alt="coding girl">
+  <img src="https://i.pinimg.com/originals/6d/f2/0c/6df20c84cde3c55f7f3a6f569e9d8d55.gif" width="300px" alt="anime aesthetic gif">
 </p>
 
 ---
 
 ### 🌸 Sobre mim
-- 💻 Dev iniciante, apaixonada por *programação*  
-- 🌱 Atualmente aprendendo *Java* e lógica de programação  
+- 💻 Dev iniciante, apaixonada por **programação**  
+- 🌱 Atualmente aprendendo **C++ e Web (HTML, CSS, JavaScript)**  
+- 🎨 Explorando **Figma** para design e prototipagem  
 - ☕ Café é meu combustível diário  
 - 💗 Sempre buscando evoluir e compartilhar conhecimento  
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+### 💻 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tchindjiarufina&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchindjiarufina&layout=compact&theme=dark" height="160"/>
 </p>
 
 ---
 
 ### 📬 Onde me encontrar
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:SEU-EMAIL">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<p>
+  <a href="https://www.linkedin.com/in/tchindjia-g-0a6563366" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px" alt="cute hello">
+  <img src="https://i.pinimg.com/originals/91/3a/d5/913ad5c25097b2b7ef25b0a0bbdb9c22.gif" width="200px" alt="aesthetic anime gif">
 </p>
 
 <h3 align="center">💖 Obrigada por visitar meu perfil 💖</h3>
