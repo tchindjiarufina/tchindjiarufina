@@ -1,4 +1,4 @@
-<h1 align="center">🌸✨ Oi, eu sou a Tchindjia Rufina ✨🌸</h1>
+<h1 align="center">🌸✨ Oi, eu sou a Rufina ✨🌸</h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/6d/f2/0c/6df20c84cde3c55f7f3a6f569e9d8d55.gif" width="300px" alt="anime aesthetic gif">
@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/91/3a/d5/913ad5c25097b2b7ef25b0a0bbdb9c22.gif" width="200px" alt="aesthetic anime gif">
+  <img src="https://i.pinimg.com/originals/8a/35/28/8a3528ac5d10a7a6744984487a6600d3.gif" width="200px" alt="cute aesthetic gif">
 </p>
 
 <h3 align="center">💖 Obrigada por visitar meu perfil 💖</h3>
