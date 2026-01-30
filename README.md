@@ -7,9 +7,7 @@
 ---
 
 ### 🌸 Sobre mim
-- 💻 Dev iniciante, apaixonada por **programação**  
-- 🌱 Atualmente aprendendo **C++ e Web (HTML, CSS, JavaScript)**  
-- 🎨 Explorando **Figma** para design e prototipagem  
+- 💻 Dev iniciante, apaixonada por **programação**   
 - ☕ Café é meu combustível diário  
 - 💗 Sempre buscando evoluir e compartilhar conhecimento  
 
@@ -24,14 +22,6 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tchindjiarufina&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchindjiarufina&layout=compact&theme=dark" height="160"/>
 </p>
 
 ---
