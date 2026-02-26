@@ -1,42 +1,33 @@
-<h1 align="center">🌸✨ Oi, eu sou a Rufina ✨🌸</h1>
+<h1 align="center">Hey, Im Rufina!<br>(✿◡‿◡)</h1>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/6d/f2/0c/6df20c84cde3c55f7f3a6f569e9d8d55.gif" width="300px" alt="anime aesthetic gif">
-</p>
+###
 
----
+<h2 align="left">About me</h2>
 
-### 🌸 Sobre mim
-- 💻 Dev iniciante, apaixonada por **programação**   
-- ☕ Café é meu combustível diário  
-- 💗 Sempre buscando evoluir e compartilhar conhecimento  
+###
 
----
+<p align="left">Beginner developer, passionate about programming<br>☕ Coffee is my daily fuel<br>💗 Always seeking to evolve and share knowledge</p>
 
-### 💻 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+###
 
----
+<h2 align="left">I code with</h2>
 
-### 📬 Onde me encontrar
-<p>
-  <a href="https://www.linkedin.com/in/tchindjia-g-0a6563366" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8a/35/28/8a3528ac5d10a7a6744984487a6600d3.gif" width="200px" alt="cute aesthetic gif">
-</p>
+###
 
-<h3 align="center">💖 Obrigada por visitar meu perfil 💖</h3>
+<div align="center">
+  <img height="200" src="https://i.imgur.com/qQuIttG.gif"  />
+</div>
+
+###
