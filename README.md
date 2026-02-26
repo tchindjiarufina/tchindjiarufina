@@ -74,7 +74,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tchindjiarufina/tchindjiarufina/output/snake.svg" alt="Snake animation" />
-
-###
-
