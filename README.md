@@ -16,7 +16,7 @@
 
 ###
 
-<h4 align="left">17 years old | Electronics Technician<br>Turning curiosity into code.<br>Passionate about technology, practical projects, and challenges that help me grow.<br>Building my foundation today to become a Software Engineer in the future. ☕💖</h4>
+<h4 align="left">17 years old | Electronics Technician<br>Turning curiosity into code.<br>Passionate about technology, practical projects, and challenges that help me grow.<br>Building my foundation today to become a Software Developer in the future. ☕💖</h4>
 
 ###
 
