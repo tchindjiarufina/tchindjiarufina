@@ -1,76 +1,50 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/ac/8a/53/ac8a5331c4a86376f0689e8c3637c139.gif"  />
+
+<img src="./assets/banner.gif" width="100%" alt="Rufina Banner">
+
+<br><br>
+
+# ✦ RUFINA ✦
+
+### `SYSTEMS DEVELOPMENT • TECHNOLOGY • CYBERSECURITY`
+
+<p>
+  Desenvolvedora em formação apaixonada por tecnologia,
+  programação e criação de soluções.
+</p>
+
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6">
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF">
+
+<br>
+
+<img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=0078D4">
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Arduino-111827?style=for-the-badge&logo=arduino&logoColor=00979D">
+<img src="https://img.shields.io/badge/MQTT-111827?style=for-the-badge&logo=mqtt&logoColor=660066">
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there!（づ￣3￣）づ╭❤️～</h1>
+## `> about_me`
 
-###
-
-<h2 align="center">My name is Rufina, and I’m building my journey in technology one project at a time.</h2>
-
-###
-
-<h3 align="left">👩🏾‍💻  About Me  </h3>
-
-###
-
-<h4 align="left">18 years old | Electronics Technician<br>Turning curiosity into code.<br>Passionate about technology, practical projects, and challenges that help me grow.<br>Building my foundation today to become a Software Developer in the future. ☕💖</h4>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/tchindjia-g-0a6563366" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="left">🤍 My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tchindjiarufina&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│  Olá! Eu sou a Rufina 👋🏾                                 │
+│                                                            │
+│  Sou estudante de Desenvolvimento de Sistemas e gosto      │
+│  de transformar ideias em projetos reais.                  │
+│                                                            │
+│  Tenho interesse por desenvolvimento, infraestrutura,       │
+│  IoT, cloud e cybersecurity.                               │
+│                                                            │
+│  Estou sempre buscando aprender novas tecnologias,          │
+│  construir projetos e evoluir minhas habilidades.          │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
 
